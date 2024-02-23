@@ -60,21 +60,19 @@ rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
 ```
 ## Output:
-### Dataset
-![output](./images/dataset.png)
 ### Head Values
-![output](./images/head.png)
+![exp2-7](https://github.com/Darshans05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/115534676/44bf5e2f-9983-48c3-81da-1896e32faf2e)
 ### Tail Values
-![output](./images/tail.png)
+![exp2-6](https://github.com/Darshans05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/115534676/56f70ef3-a429-40e3-a96e-2959131c0f41)
 ### X and Y values
-![output](./images/xyvalues.png)
+![exp2-1](https://github.com/Darshans05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/115534676/e2275627-2785-402c-99bf-4e20ef2b403e)
 ### Predication values of X and Y
-![output](./images/predict%20.png)
+![exp2-2](https://github.com/Darshans05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/115534676/789fb8b6-afb4-460f-8af9-fa848d577a3e)
 ### MSE,MAE and RMSE
-![output](./images/values.png)
+![exp2-5](https://github.com/Darshans05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/115534676/61630487-6155-4bb7-ac14-0a0feecc473a)
 ### Training Set
-![output](./images/train.png)
+![exp2-3](https://github.com/Darshans05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/115534676/9a9fbfea-f9ba-414e-a423-a33d6389b0a7)
 ### Testing Set
-![output](./images/test.png)
+![exp2-4](https://github.com/Darshans05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/115534676/85cf52a9-1158-4ba6-bc9c-1b16ae873006)
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
